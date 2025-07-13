@@ -15,6 +15,13 @@
       "when": 1752381144838,
       "tag": "0001_lovely_blockbuster",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752381738765,
+      "tag": "0002_milky_blindfold",
+      "breakpoints": true
     }
   ]
 }
